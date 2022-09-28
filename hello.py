@@ -22,10 +22,10 @@ def index():
     form = NameForm()
     if form.validate_on_submit():
         old_name = session.get('name')
-        old_email = session.get('email')
+        #old_email = session.get('email')
         if old_name is not None and old_name != form.name.data:
             flash('Looks like you have changed your name!')
-        if old_email != None and not ('utoronoto.ca' in old_email):
+        if form.email.data != None and not ('utoronto.ca' in form.email.data):
             flash('Please fill in a UofT email')
         session['name'] = form.name.data
         session['email'] = form.email.data
