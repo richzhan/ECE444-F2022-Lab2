@@ -5,3 +5,6 @@ Activity 1
 
 Activiry 2, Example 2.2
 ![ECE444_Lab2_Act2_2](https://user-images.githubusercontent.com/113215877/192843250-6faad323-9a53-40fe-8290-a8b4abf34f3d.png)
+
+Activity 3,
+![ECE444_Lab2_Act3](https://user-images.githubusercontent.com/113215877/192864253-59dd9d73-3bfb-4baa-9282-2992e4f4964a.png)
