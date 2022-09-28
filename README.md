@@ -8,3 +8,10 @@ Activiry 2, Example 2.2
 
 Activity 3,
 ![ECE444_Lab2_Act3](https://user-images.githubusercontent.com/113215877/192864253-59dd9d73-3bfb-4baa-9282-2992e4f4964a.png)
+
+Activity 4,<br />
+![ECE444_Lab2_Act4_2](https://user-images.githubusercontent.com/113215877/192886029-6de28dc4-2f16-414c-80bb-00fea1dee8ec.png)
+![ECE444_Lab2_Act4_3](https://user-images.githubusercontent.com/113215877/192886033-d0a3e1d0-1744-4e5e-9caf-758218ce88a4.png)
+![ECE444_Lab2_Act4_4](https://user-images.githubusercontent.com/113215877/192886038-6122eb4b-0b6b-49a6-9f90-15f890874da2.png)
+![ECE444_Lab2_Act4_5(1)](https://user-images.githubusercontent.com/113215877/192889449-9db4cd5a-8422-437d-9cc5-fc8d049f3784.png)
+
